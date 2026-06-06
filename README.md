@@ -19,7 +19,7 @@ A clone of the popular music streaming interface inspired by Spotify, built with
 - **HTML5** — for markup structure  
 - **CSS3** — for styling and layout  
 - **JavaScript (vanilla)** — for interactivity  
-- *(Optional: list any frameworks/libraries such as Bootstrap, Font Awesome, etc.)*
+
 
 ---
 
