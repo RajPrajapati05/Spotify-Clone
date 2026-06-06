@@ -4,12 +4,6 @@ A clone of the popular music streaming interface inspired by Spotify, built with
 
 ---
 
-## 🎧 Live Demo  
-*(If you’ve hosted it, add your live link here)*  
-[Visit the live version](#)
-
----
-
 ## 🚀 Features
 
 - Sleek UI design reminiscent of Spotify’s layout  
@@ -29,13 +23,3 @@ A clone of the popular music streaming interface inspired by Spotify, built with
 
 ---
 
-## 🧭 Installation & Setup
-
-### Prerequisites  
-You just need a modern web browser — no backend required (if only front‑end).  
-If you are using audio tracks, ensure the assets are included.
-
-### Steps  
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/RajPrajapati05/Spotify--Clone.git
